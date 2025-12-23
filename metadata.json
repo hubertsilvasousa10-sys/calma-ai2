@@ -1,0 +1,7 @@
+{
+  "name": "Calma AI",
+  "description": "Um aplicativo de apoio emocional e bem-estar mental focado em controle de ansiedade com suporte de IA, técnicas de respiração e grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
